@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "inde.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -60,7 +60,7 @@
     "gdpr": false
   },
   "pages": {
-    "inde.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
